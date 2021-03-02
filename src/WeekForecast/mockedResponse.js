@@ -1,7 +1,7 @@
 // 20210301114835
 // https://api.weatherbit.io/v2.0/forecast/daily?city=Kyiv,UA&key=01184eace09548a0bcb4408b167ea145
 
-const response = {
+const mockedResponse = {
     data: [
         {
             moonrise_ts: 1614618249,
@@ -716,4 +716,4 @@ const response = {
     state_code: '12'
 };
 
-export default response;
+export default mockedResponse;

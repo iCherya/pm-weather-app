@@ -3,3 +3,8 @@
     padding: 1em;
     margin: 0 auto;
 }
+
+.App h1 {
+    text-align: center;
+    color: white;
+}
